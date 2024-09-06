@@ -1,0 +1,2 @@
+CICDDoS 2019 dataset - 
+https://www.kaggle.com/datasets/rodrigorosasilva/cic-ddos2019-30gb-full-dataset-csv-files/data
